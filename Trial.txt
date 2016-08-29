@@ -1,11 +1,12 @@
 Hello
 
-This is a txt file which you can update to land a pull request. Please add your name below to update it. 
+This is a txt file which you can update to land a pull request. Please add your name below to update it by clicking on 'save'. 
 
 Manas 
 Surabhi
 Anurag
 Ashish
+Ritu
 
 
 
